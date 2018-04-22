@@ -6,6 +6,10 @@ In this example I use "react-router-dom" for routing.
 
 ![Screen Shoot](/src/MyApp/img/SS2.png)
 
+<p align="center">
+  <img src="/src/MyApp/img/SS2.png">
+</p>
+
 ## Name: React-MDL
 
 - Website: https://tleunen.github.io/react-mdl/
