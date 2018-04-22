@@ -4,6 +4,8 @@
 
 In this example I use "react-router-dom" for routing.
 
+![Screen Shoot](/src/MyApp/img/SS2.png)
+
 ## Name: React-MDL
 
 - Website: https://tleunen.github.io/react-mdl/
