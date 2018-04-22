@@ -5,7 +5,7 @@
 In this example I use "react-router-dom" for routing.
 
 <hr />
-<p align="center" background-color: "powderblue">
+<p align="center" style="background-color:powderblue;">
   <img src="/src/MyApp/img/SS2.png" />
 </p>
 <hr />
