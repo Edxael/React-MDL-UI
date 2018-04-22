@@ -6,7 +6,7 @@ In this example I use "react-router-dom" for routing.
 
 <p align="center">
   <hr />
-    <img src="/src/MyApp/img/SS2.png">
+    <img align="center" src="/src/MyApp/img/SS2.png">
   <hr />
 </p>
 
