@@ -4,12 +4,11 @@
 
 In this example I use "react-router-dom" for routing.
 
+<hr />
 <p align="center">
-  <hr />
-    <img align="center" src="/src/MyApp/img/SS2.png">
-  <hr />
+  <img src="/src/MyApp/img/SS2.png" />
 </p>
-
+<hr />
 ## Name: React-MDL
 
 - Website: https://tleunen.github.io/react-mdl/
