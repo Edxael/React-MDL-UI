@@ -10,7 +10,7 @@ export default class extends React.Component{
         <div className="transp page-cont">
             <h1>Home</h1>
             <hr/>
-
+            
         </div>
 
       </div>
